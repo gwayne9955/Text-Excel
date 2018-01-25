@@ -1,9 +1,9 @@
 # Text-Excel
 A java program designed to mimic Microsoft Excel
 
-##Usage:
+## Usage:
 
-###Sum:
+### Sum:
 Type a cell location followed by an ' = '.
 Then in parenthesis type 'sum' followed by the range of cells wishing to be added up.
 Ex. a1 = ( sum a2 - b3 )"
