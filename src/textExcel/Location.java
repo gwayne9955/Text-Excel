@@ -1,7 +1,5 @@
 package textExcel;
 
-// Do not modify this file
-
 public interface Location
 {
     // represents a location like B6, must be implemented by your
