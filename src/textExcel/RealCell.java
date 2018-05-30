@@ -1,6 +1,5 @@
 package textExcel;
 
-
 abstract class RealCell extends Cell
 {
     // override in subclasses
