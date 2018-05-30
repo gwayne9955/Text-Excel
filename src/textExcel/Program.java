@@ -1,6 +1,4 @@
-// Garrett Wayne 4/2/15
-// AP Computer Science, Period 1, Mr. Leedy
-// Project 2 - TextExcel CP6
+// Garrett Wayne
 
 package textExcel;
 
